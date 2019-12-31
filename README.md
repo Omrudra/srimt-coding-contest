@@ -30,7 +30,7 @@ Number | Problem | Solution
 9 | [Replace Character](https://www.hackerrank.com/contests/srimtcoder2019/challenges/2-replace-character) | [Replace Character.c](https://github.com/Omrudra/srimt-coding-contest/blob/master/SRIMT%40CODER%20OF%202019/Replace%20Character.c)
 10 | [Trim Spaces]() | [Trim Spaces.c](https://github.com/Omrudra/srimt-coding-contest/blob/master/SRIMT%40CODER%20OF%202019/Trim%20Spaces.c)
 11 | [Reverse Word Wise](https://www.hackerrank.com/contests/srimtcoder2019/challenges/4-reverse-word-wise) | [Reverse Word Wise.c](https://github.com/Omrudra/srimt-coding-contest/blob/master/SRIMT%40CODER%20OF%202019/Reverse%20Word%20Wise.c)
-12 | []() | []()
+12 | [Compress the String](https://www.hackerrank.com/contests/srimtcoder2019/challenges/7-compress-the-string/problem) | [Compress the String.py](https://github.com/Omrudra/srimt-coding-contest/blob/master/SRIMT%40CODER%20OF%202019/Compress%20the%20String.py)
 13 | []() | []()
 14 | []() | []()
 15 | []() | []()

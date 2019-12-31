@@ -15,3 +15,8 @@ Number | Problem | Solution
 3 | Solution of Palindrom Pattern |[Palindrom Pattern.cpp](https://github.com/Omrudra/srimt-coding-contest/blob/master/SRIMT%20CODING%20CONTEST-1/Palindrom%20Pattern.cpp)
 4 | Solution of Power Game | [Power Game.cpp](https://github.com/Omrudra/srimt-coding-contest/blob/master/SRIMT%20CODING%20CONTEST-1/Power%20Game.cpp)
 5 | Solution of fibonacci Game | [fibonacci Game.py](https://github.com/Omrudra/srimt-coding-contest/blob/master/SRIMT%20CODING%20CONTEST-1/fibonacci%20Game.py)
+
+### SRIMT@CODER OF 2019
+Number | Problem | Solution
+--- | --- | ---
+1| [Array Sum](https://www.hackerrank.com/contests/srimtcoder2019/challenges/1-array-sum) | [Solution.c](https://github.com/Omrudra/srimt-coding-contest/tree/master/SRIMT@CODER%20OF%202019)

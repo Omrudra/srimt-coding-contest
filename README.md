@@ -5,6 +5,6 @@
 ### SRIMT DEMO CONTEST
 Number | Problem | Solution
 --- | --- | ---
-1 | | [I'm an inline-style link](https://www.google.com)
+1 | | [Half diamond pattern.cpp](https://github.com/Omrudra/srimt-coding-contest/blob/master/SRIMT%20DEMO%20CONTEST/Half%20diamond%20pattern.cpp)
 *Still* | `renders` | **nicely**
 1 | 2 | 3

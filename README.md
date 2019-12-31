@@ -20,3 +20,4 @@ Number | Problem | Solution
 Number | Problem | Solution
 --- | --- | ---
 1| [Array Sum](https://www.hackerrank.com/contests/srimtcoder2019/challenges/1-array-sum) | [Solution.c](https://github.com/Omrudra/srimt-coding-contest/tree/master/SRIMT@CODER%20OF%202019)
+2 | [Linear Search](https://www.hackerrank.com/contests/srimtcoder2019/challenges/2-linear-search/problem) | [Linear Search.c](https://github.com/Omrudra/srimt-coding-contest/blob/master/SRIMT%40CODER%20OF%202019/Linear%20Search.c)

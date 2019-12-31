@@ -1,2 +1,2 @@
-# srimt-coding-contest
-Solution of coding challenges by SR College
+# SRIMT COADING CONTEST
+## Solution of coding challenges by SR College

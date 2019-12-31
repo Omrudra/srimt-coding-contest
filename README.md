@@ -31,7 +31,9 @@ Number | Problem | Solution
 10 | [Trim Spaces]() | [Trim Spaces.c](https://github.com/Omrudra/srimt-coding-contest/blob/master/SRIMT%40CODER%20OF%202019/Trim%20Spaces.c)
 11 | [Reverse Word Wise](https://www.hackerrank.com/contests/srimtcoder2019/challenges/4-reverse-word-wise) | [Reverse Word Wise.c](https://github.com/Omrudra/srimt-coding-contest/blob/master/SRIMT%40CODER%20OF%202019/Reverse%20Word%20Wise.c)
 12 | [Compress the String](https://www.hackerrank.com/contests/srimtcoder2019/challenges/7-compress-the-string/problem) | [Compress the String.py](https://github.com/Omrudra/srimt-coding-contest/blob/master/SRIMT%40CODER%20OF%202019/Compress%20the%20String.py)
-13 | []() | []()
-14 | []() | []()
-15 | []() | []()
-16 | []() | []()
+13 | [Remove Consecutive Duplicates](https://www.hackerrank.com/contests/srimtcoder2019/challenges/6-remove-consecutive-duplicates) | [Remove Consecutive Duplicates.py](https://github.com/Omrudra/srimt-coding-contest/blob/master/SRIMT%40CODER%20OF%202019/Remove%20Consecutive%20Duplicates.py)
+14 | [Print All Substrings](https://www.hackerrank.com/contests/srimtcoder2019/challenges/5-print-all-substrings) | [Print All Substrings.py](https://github.com/Omrudra/srimt-coding-contest/blob/master/SRIMT%40CODER%20OF%202019/Print%20All%20Substrings.py)
+15 | [Check Parenthesis](https://www.hackerrank.com/contests/srimtcoder2019/challenges/check-parenthesis-acompany-tag-amazonflipkartadovewiprohikeoracle) | [Check Parenthesis.py](https://github.com/Omrudra/srimt-coding-contest/blob/master/SRIMT%40CODER%20OF%202019/Check%20Parenthesis.py)
+
+
+##   ****************************************************ALL THE BEST****************************************************
